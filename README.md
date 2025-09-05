@@ -4,7 +4,9 @@ Back on 20250302 I was in Japan attending SECCON13 and exploring the interesting
 
 While walking around, I came across a Car Hacking Village. My first thought was, “What exactly are they hacking in cars, anyway?"
 
-https://www.carhackingvillage.com/
+[Car Hacking Village](https://www.carhackingvillage.com/)
+
+[Documentation of RAMN](https://ramn.readthedocs.io/en/latest/index.html)
 
 They handed me a small CAN bus kit used for car hacking CTF. At that point, I had no prior knowledge of automotives, so I had to do due diligence to understand the basics before CTF.
 
